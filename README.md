@@ -18,3 +18,8 @@
 ```bash
   php artisan db:seed
 ```
+
+## Backend (Laravel) APP
+
+[Frontend Project Url](https://github.com/VeyselAydogduSoftware/holiday-tracking-backend.git)
+
