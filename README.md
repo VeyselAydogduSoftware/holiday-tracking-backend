@@ -19,7 +19,7 @@
   php artisan db:seed
 ```
 
-## Backend (Laravel) APP
+## Frontend (NextJS) APP
 
-[Frontend Project Url](https://github.com/VeyselAydogduSoftware/holiday-tracking-backend.git)
+[Frontend Project Url](https://github.com/VeyselAydogduSoftware/holiday-tracking-frontend)
 
